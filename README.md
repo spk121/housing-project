@@ -8,7 +8,7 @@
 
 But I want the bottom floor to have laundry and bike storage, so 1 + 4 + 4 + 4? 1 + 3 + 3 + 3?
 Let's say
-Ground floor: ADA apt, laundry, bike/stroller storage
+Ground floor: Tw0 ADA apts?  Bike/stroller storage
 2nd floor: 2 bed + 2 bed
 3rd floor: 2 bed + 2 bed
 4th floor: studio + 1 bed + 1 bed.
@@ -22,4 +22,8 @@ Ground floor: ADA apt, laundry, bike/stroller storage
 
 Khrushovka alternated with some floors being Studio, 1, 2, and others being 1, 1, 1.
 That would make any basic floor plan 492 + 677 + 1059 or 677 * 3. So 2,200 sq ft not including staircase.
+
+## Appliances
+
+To avoid having to waste space on a laundry room, I could put in heat-pump washer/dryer combos, which are $2,000 apiece.
 
